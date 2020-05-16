@@ -1,15 +1,7 @@
-//
-//  cables.c
-//  GlobalLogic
-//
-//  Created by Paul Partola on 17.05.2020.
-//  Copyright © 2020 selfX Inc. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, const char * argv[]) {
+int main(int argc, const char *argv[]) {
 
     int i, length = 0;
     
