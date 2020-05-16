@@ -17,9 +17,9 @@ int main(int argc, const char *argv[]) {
         printf("%d\n", N);
     } else {
     
-        for(i = 1; i <= N; i += (K + 1)){
+        for(i = 1; i <= N; i += (K + 1)) {
             steps++;
-            if((i + K) > N){
+            if((i + K) > N) {
                 break;
             }
         }
